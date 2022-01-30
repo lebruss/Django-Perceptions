@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django.templates.models.py',#I added this to include Classes that I added (Models)
+    #'django.templates.models.py', How do I add this to include Classes that I added (Models)?
 ]
 
 # Middleware framework
